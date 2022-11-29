@@ -38,7 +38,7 @@ ________________________________________________________________________________
 
 <a href="https://www.linkedin.com/in/fgasparine"><img src="https://www.effa.nl/wp-content/uploads/2018/01/linkedin-logo-1024x1024.png" alt="LinkedIn logo" width= "40" height= "40" title="LinkedIn" /></a>
 
+
+⚡ Fun fact: I have a degree in philosophy
+
 Bye ! 😉
-
-- ⚡ Fun fact: ...
-
