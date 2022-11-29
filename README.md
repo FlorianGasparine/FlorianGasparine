@@ -19,7 +19,7 @@ ________________________________________________________________________________
 
 <br>
 
-<img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" width= "40" height= "40" alt="MongoDB logo" title="MongoDB"/>..........<img src="hhttps://miro.medium.com/max/1050/1*acfAKaDI7uv5GyFnJmiPhA.png" width= "40" height= "40" alt="Mongoose logo" title="Mongoose"/>..........<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Logo_OVH.svg/langfr-280px-Logo_OVH.svg.png" width= "40" height= "40" alt="OVH logo" title="OVH"/>
+<img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" width= "40" height= "40" alt="MongoDB logo" title="MongoDB"/>
 __________________________________________________________________________________________________________________________
 
 #### 📚 I plan to learn for the next few months :
