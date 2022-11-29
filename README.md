@@ -1,9 +1,3 @@
-### Hi there 👋
-
-
-
-Here are some ideas to get you started:
-
 ## Hi everyone ! 👋
 
 I'm Florian, french web developer who just finished his Openclassrooms training. 🥳
