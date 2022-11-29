@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 #### 📚 I plan to learn for the next few months :
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width= "40" height= "40" alt="Description du logo Redux" title="Redux"/>..........<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width= "60" height= "40" alt="Description du logo Redux" title="Redux"/>..........<img src="https://www.vhv.rs/dpng/d/256-2563210_sql-programming-language-logo-hd-png-download.png" width= "70" height= "40" alt="Description de l&#39;image SQL logo.svg." title="SQL"/>
 
 __________________________________________________________________________________________________________________________
 
