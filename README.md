@@ -1,10 +1,6 @@
 ## Hi everyone ! 👋
 
-I'm Florian, french web developer who just finished his Openclassrooms training. 🥳
-
-During this intense 7 months program, I built 6 projects that made me progress from a novice level to a MERN fullstack profile.
-
-I am now looking for my first job as a developer.
+I'm Florian, french web developer 🚀.
 
 __________________________________________________________________________________________________________________________
 
