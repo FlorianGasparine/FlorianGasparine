@@ -16,13 +16,6 @@ ________________________________________________________________________________
 <br>
 
 <img src="https://mpng.subpng.com/20190401/zsf/kisspng-mongodb-document-oriented-database-nosql-openshift-web-app-development-servcie-in-dehradun-5ca1b8cb8a0f32.3708278115541024755655.jpg" width= "40" height= "40" alt="MongoDB logo" title="MongoDB"/>
-__________________________________________________________________________________________________________________________
-
-#### 📚 I plan to learn :
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Redux_Logo.png" width= "80" height= "40" alt="Description du logo Redux" title="Redux"/>
-
-__________________________________________________________________________________________________________________________
 
 #### 🔎 You can find me on :
 
